@@ -14,9 +14,7 @@ p{
 }
 
 *{
-    background-image: url(/html/fondo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: aqua;
 }
 
 #div1{
