@@ -1,0 +1,49 @@
+
+h1{
+    text-align: center;
+    color:rgb(45, 19, 107);
+
+}
+body{
+    color: rgb(11, 11, 84);
+    font-family: sans-serif;
+
+}
+p{
+    text-align: center;
+}
+
+*{
+    background-image: url(/html/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#div1{
+    border-style: inset;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
+    text-align: center;
+    
+}
+div{
+    border-style: inset;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
+    text-align: center;
+}
+table, td, th{
+    border-style:dashed;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 3px;
+    text-align: center;
+}
+#logo{
+    border-radius: 1cm;
+}
+hr{
+    border-color: blue;
+}
